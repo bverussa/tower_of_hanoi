@@ -1,5 +1,11 @@
-// Writen on: Jan 11, 2017
-// Writen by: Bruno Verussa
+/*
+* Written by: Bruno Verussa
+* Written on: Jan 11, 2017
+* Description: Main JS File
+* 
+* ChangeLog:
+* 
+*/
 
 "use strict";
 var c, ctx;                     // used to draw canvas

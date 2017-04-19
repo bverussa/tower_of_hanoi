@@ -1,3 +1,12 @@
+/*
+* Written by: Bruno Verussa
+* Written on: Jan 11, 2017
+* Description: Main CSS file
+* 
+* ChangeLog:
+* Apr 18, 2017 - created the class .center used to centralize texts
+*/
+
 body {
     background: #dddddd;
     font-family: Palatino, Arial, Helvetica, sans-serif;
